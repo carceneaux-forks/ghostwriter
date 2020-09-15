@@ -132,7 +132,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .author-profile:after { border-bottom: 1px dotted #303030; content: ""; display: block; margin: 40px auto 0; width: 100px; }
 .author-heading { margin: 15px auto; text-align: center; width: 100%; }
 .author-avatar { border-radius: 50px; display: inline; height: 50px; margin: 5px 10px 0 0; width: 50px; vertical-align: middle; }
-.author-name { display: inline; font-size: 40px; font-weight: 700; text-align: center; text-transform: uppercase; vertical-align: middle; }
+.author-name { display: inline; font-size: 52px; font-weight: 700; text-align: center; text-transform: uppercase; vertical-align: middle; }
 .author-meta { color: #aeadad; font-size: 14px; font-weight: 600; line-height: 1; margin: 25px 0 0; text-align: center; text-transform: uppercase; }
 .author-meta span { display: inline-block; margin: 0 10px 8px; }
 .author-meta i { margin-right: 8px; }
